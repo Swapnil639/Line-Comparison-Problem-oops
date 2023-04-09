@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class LineComparison {
     public static void calculateLength() {
-     System.out.println("Calculate length between two points");
+    System.out.println("Calculate length between two points");
     Scanner scanner = new Scanner(System.in);
         System.out.println("Enter x1 : ");
     int x1 = scanner.nextInt();
@@ -30,9 +30,12 @@ public class LineComparison {
         System.out.println("Length of second line is : " +length1);
 
         if (length == length1) {
-        System.out.println("Both lines are equal");
-    } else {
-        System.out.println("Both lines are not equal");
+        System.out.println("Both lines are equal !");
+    } else if(length > length1) {
+        System.out.println("Line first are greater second line !");
+    }
+        else{
+        System.out.println("Line first are less than second line !");
     }
 
 }
