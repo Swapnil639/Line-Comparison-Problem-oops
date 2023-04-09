@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0e01dbc4-d7e1-4295-8b5b-5f6bf7dcb3fd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/CalculateLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/CalculateLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/LineComparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/CalculateLength.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,15 +32,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration name="CalculateLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.CalculateLength" />
+    <configuration name="LineComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.LineComparison" />
       <module name="Line-Comparison-Problem-oops" />
       <extension name="coverage">
         <pattern>
@@ -50,7 +54,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculateLength" />
+        <item itemvalue="Application.LineComparison" />
       </list>
     </recent_temporary>
   </component>
